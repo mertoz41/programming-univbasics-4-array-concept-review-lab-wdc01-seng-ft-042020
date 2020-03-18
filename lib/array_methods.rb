@@ -7,7 +7,7 @@ end
 counter += 1
 end
 nil
-  # Add your solution here
+  
 end
 
 def find_max_value(array)
