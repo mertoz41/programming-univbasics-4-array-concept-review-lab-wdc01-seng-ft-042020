@@ -12,7 +12,8 @@ end
 
 def find_max_value(array)
   x = array[0]
-  array.length.times { |
+  array.length.times { |index|
+  if 
   # Add your solution here
 end
 
